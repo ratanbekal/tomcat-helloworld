@@ -24,7 +24,7 @@
                     <configuration>
                         <outputDirectory>webapps</outputDirectory>
                         <warName>ROOT</warName>
-                        <webXml>src/main/webapp/WEB-INF/web.xml</webXml>
+                        <webXml>WEB-INF/web.xml</webXml>
                   </configuration>
             </plugin>
         </plugins>
