@@ -23,7 +23,7 @@
                     <version>2.1.1</version>
                     <configuration>
                         <outputDirectory>webapps</outputDirectory>
-                        <warName>ROOT</warName>
+                        <warName>SimpleTomcatWebApp</warName>
                         <webXml>WEB-INF/web.xml</webXml>
                   </configuration>
             </plugin>
